@@ -1,1 +1,1 @@
-Python- Workarounds
+Simple code snipptes for beginners.
